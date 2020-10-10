@@ -1,0 +1,102 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: cursive, sans-serif;
+  padding-bottom: 3%;
+}
+
+.h {
+  background-image: url("images/poppa7.png");
+}
+
+.a {
+  /* background-image: url("images/tom1.png"); */
+  background-image: url("images/poppa1.jpg");
+}
+
+.b {
+  background-image: url("images/poppa2.jpg");
+}
+
+.c {
+  background-image: url("images/poppa3.jpg");
+}
+
+.d {
+  background-image: url("images/poppa13.jpg");
+}
+
+.e {
+  background-image: url("images/poppa4.png");
+}
+
+.f {
+  background-image: url("images/poppa5.jpg");
+}
+
+.g {
+  background-image: url("images/poppa6.jpg");
+}
+
+
+.i {
+  background-image: url("images/poppa12.jpg");
+}
+.j {
+  background-image: url("images/poppa9.jpg");
+}
+.k {
+  background-image: url("images/poppa10.jpg");
+}
+.l {
+  background-image: url("images/poppa11.jpg");
+}
+.m {
+  background-image: url("images/poppa16.png");
+}
+.n {
+  background-image: url("images/poppa14.jpg");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 300px;
+  height: 500px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
