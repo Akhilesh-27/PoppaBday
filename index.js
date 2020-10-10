@@ -30,72 +30,72 @@ function makeSound(key) {
   switch (key) {
 
     case "h":
-        var kick = new Audio('sounds/HBSong1.mp3');
+        var kick = new Audio('HBSong1.mp3');
         kick.play();
         break;
 
     case "a":
-      var tom1 = new Audio("sounds/HBSong2.mp3");
+      var tom1 = new Audio("HBSong2.mp3");
       tom1.play();
       break;
 
     case "b":
-      var tom2 = new Audio("sounds/HBSong3.mp3");
+      var tom2 = new Audio("HBSong3.mp3");
       tom2.play();
       break;
 
     case "c":
-      var tom3 = new Audio('sounds/Thalaiva.mp3');
+      var tom3 = new Audio('Thalaiva.mp3');
       tom3.play();
       break;
 
     case "d":
-      var tom4 = new Audio('sounds/Sports.mp3');
+      var tom4 = new Audio('Sports.mp3');
       tom4.play();
       break;
 
     case "e":
-      var snare = new Audio('sounds/Pellikala.mp3');
+      var snare = new Audio('Pellikala.mp3');
       snare.play();
       break;
 
     case "f":
-      var crash = new Audio('sounds/Don1.mp3');
+      var crash = new Audio('Don1.mp3');
       crash.play();
       break;
 
     case "g":
-      var kick = new Audio('sounds/Don2.mp3');
+      var kick = new Audio('Don2.mp3');
       kick.play();
       break;
 
 
 
     case "i":
-          var kick = new Audio('sounds/Yeh Dosti.mp3');
+          var kick = new Audio('Yeh Dosti.mp3');
           kick.play();
           break;
 
     case "j":
-            var kick = new Audio('sounds/ShankarDada.mp3');
+            var kick = new Audio('ShankarDada.mp3');
             kick.play();
             break;
 
     case "k":
-              var kick = new Audio('sounds/Superman.mp3');
+              var kick = new Audio('Superman.mp3');
               kick.play();
               break;
 
     case "l":
-                var kick = new Audio('sounds/PanBanaras.mp3');
+                var kick = new Audio('PanBanaras.mp3');
                 kick.play();
                 break;
     case "m":
-                var kick = new Audio('sounds/ChiruVeenaStep.mp3');
+                var kick = new Audio('ChiruVeenaStep.mp3');
                 kick.play();
                 break;
     case "n":
-                var kick = new Audio('sounds/MustafaMustafa.mp3');
+                var kick = new Audio('MustafaMustafa.mp3');
                 kick.play();
                 break;
 
